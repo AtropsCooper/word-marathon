@@ -2,12 +2,19 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        
         <title>Word Marathon</title>
         <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
         
     </head>
-    <body onload="init()">
-        <canvas id="gameCanvas" width="430" height="932" style="display:block; margin: 0 0;"></canvas>
+    <body onload="init()" bgcolor="#000000">
+        <canvas id="gameCanvas" width="430" height="466" style="display:block;"></canvas>
         <script src="game.min.js"></script>
     </body>
+    <style>
+    html, body, div, canvas {
+        margin: 0;
+        padding: 0;
+    }
+    </style>
 </html>
