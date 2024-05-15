@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "icon": 1,
+        "text": "出发咯！系好安全带哦！",
+        "trigger": 0,
+        "delay": 0
+    },
+    {
+        "id": 2,
+        "icon": 2,
+        "text": "好期待~！",
+        "trigger": 0,
+        "delay": 2
+    },
+    {
+        "id": 3,
+        "icon": 1,
+        "text": "终于放假了，不容易啊",
+        "trigger": 2,
+        "delay": 0
+    },
+    {
+        "id": 4,
+        "icon": 3,
+        "text": "是啊，要好好放松下",
+        "trigger": 2,
+        "delay": 2
+    },
+    {
+        "id": 5,
+        "icon": 2,
+        "text": "哇~天气好凉爽",
+        "trigger": 5,
+        "delay": 0
+    },
+    {
+        "id": 6,
+        "icon": 4,
+        "text": "是呀，好久没有出门兜风了",
+        "trigger": 5,
+        "delay": 2
+    },
+    {
+        "id": 7,
+        "icon": 2,
+        "text": "要换我来开车吗？",
+        "trigger": 5,
+        "delay": 0
+    },
+    {
+        "id": 8,
+        "icon": 3,
+        "text": "没事的，我还不累",
+        "trigger": 5,
+        "delay": 2
+    },
+    {
+        "id": 9,
+        "icon": 3,
+        "text": "快到啦！",
+        "trigger": 9,
+        "delay": 0
+    },
+    {
+        "id": 10,
+        "icon": 4,
+        "text": "好快，转眼就到了！",
+        "trigger": 9,
+        "delay": 2
+    }
+]
